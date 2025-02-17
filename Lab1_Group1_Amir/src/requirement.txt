@@ -1,0 +1,60 @@
+Course Code: INFT 1207
+Objective
+Instructor: Md Al Maruf
+Lab 1: Advanced Python
+   In this lab, you will develop a Python program that generates secure passwords based on user- defined criteria, such as length, number of letters, digits, and special characters. The focus is on writing maintainable, well-structured Python code with unit tests to ensure reliability.
+Teamwork Requirement
+• This lab must be completed in pairs. Submissions by individual students will not be accepted.
+• Collaborate effectively by distributing tasks equally and documenting your contributions.
+Project Setup
+1. Project Naming Convention:
+o Create a new Python project in PyCharm and name it Lab1_GroupN (replace N
+with your actual group number).
+o File name should follow: Lab1_FirstName1_FirstName2.py (e.g.,
+Lab1_John_Smith.py). 2. Project Structure:
+o Create the following folders:
+            Lab1_GroupN/
+            ├── src/
+│ ├── password_generator.py or Lab1_John_Smith.py
+            │   └── __init__.py
+            ├
+            ├── README.md
+            ├── requirements.txt
+            ├── .gitignore
+            └── LICENSE
+
+Program Requirements
+Develop a Random Secure Password Generator with the following features:
+1. User Input:
+o Ask the user for the total length of the password (minimum of 8 characters). o Prompt the user to specify:
+▪ Number of letters
+▪ Number of digits
+▪ Number of special characters
+o Validate inputs (e.g., negative numbers, exceeding total length, etc.). 2. Password Constraints:
+o Must include uppercase, lowercase, digits, and special characters. o Randomly distribute characters as per user specifications.
+o Handle exceptions gracefully.
+Deliverables
+1. Code Implementation:
+o Ensure the code follows best practices, including clear naming conventions and
+modularity.
+o Include comments explaining key sections of the code.
+2. Version Control:
+o Upload your project to GitHub, ensuring:
+▪ Source Code
+▪ A well-written README.md file including Lab1 details o Submit the GitHub Link
+3. Video Submission:
+o Create a small screen-recorded video (5-10 minutes) presentation (both members
+should participate) explaining:
+▪ What this Lab 1 is about?
+▪ Code walkthrough
+▪ Program execution and results
+▪ Task distribution between partners
+o You can upload the video or link of your video presentation Submission Instructions
+1. Submit the GitHub repository link containing all project files.
+2. Upload the Group Video Presentation or provide a link to your video demonstration.
+
+Expected Output:
+Sample Input Example 1:
+Expected Output:
+        Sample Input Example 2:
+ Expected Output:
